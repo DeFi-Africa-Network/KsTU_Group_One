@@ -1,1 +1,5 @@
 # KsTU_Group_One
+
+Transaction Hash: 0xe0cc7dff594f69b70364c4238914299f59525ab8a4e39a5bf68549006c7ddd04
+
+Contract Addresss: 0xd9145CCE52D386f254917e481eB44e9943F39138
